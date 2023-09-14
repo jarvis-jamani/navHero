@@ -514,4 +514,26 @@ body{
 .fa-gear, .fa-user-doctor, .fa-circle-dollar-to-slot{
     font-size: 1rem;
 }
+.numbers{
+    width: 100%;
+    padding: 4rem;
+    background-color:#E2E6E9
+}
+
+.num-section{
+    display: flex;
+}
+.num-text{
+    width: 25%;
+}
+
+.num-text h5{
+    font-size: 48px;
+    color: #661CE7;
+}
+
+.num-text p{
+    font-size: 16px;
+    color:#6f6f6f
+}
 
