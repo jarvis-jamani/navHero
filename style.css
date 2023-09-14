@@ -370,6 +370,7 @@ body{
 }
 .boxes{
     display: flex;
+    column-gap: 1rem;
 }
 .little-box{
     width: 25%;
