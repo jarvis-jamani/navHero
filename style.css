@@ -294,6 +294,9 @@ body{
     width: 50%;
     
 }
+.frame1 img{
+    width: 100%;
+}
 .card-content{
     position:absolute;
     left: 14rem;
